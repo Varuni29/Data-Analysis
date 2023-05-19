@@ -18,6 +18,8 @@ The project includes a SQL script that demonstrates data exploration techniques.
   Performed statistical calculations to derive meaningful insights from the data.
 
 ### Tableau Visualization:
+<img width="960" alt="2023-05-20" src="https://github.com/Varuni29/Data-Analysis/assets/129275484/e92bea4b-f372-4ad6-ac3b-bddf1e507a78">
+
 Using Tableau, I transformed the analyzed COVID-19 data into compelling visualizations. The visualizations include:
 - #### Interactive Dashboards: 
   Created interactive dashboards to present the key findings and allow users to explore the data in depth.
@@ -30,7 +32,6 @@ Using Tableau, I transformed the analyzed COVID-19 data into compelling visualiz
 
 
 
-
-
+Tableau Dahboard link :https://public.tableau.com/app/profile/varuni.ashtaputre/viz/CovidDashboard_16844176086950/Dashboard1
 
 
